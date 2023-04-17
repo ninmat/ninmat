@@ -1,4 +1,15 @@
-### Hi there 👋
+# Om mig 
+
+## Utbildning
+
+* 4 terminer Socionomprogrammet
+* 1 termin Webbutvecklingsprogrammet
+
+## Personlig info
+
+Jag bor i Uppsala.
+
+
 
 <!--
 **ninmat/ninmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

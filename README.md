@@ -1,6 +1,6 @@
 # Hej!
 
-Jag heter Nina Mattsson och bor i Uppsala. Hösten 2022 började jag studera Webbutveckling på Mittuniversitetet. Här på min profil kan man hitta projekt som jag har jobbat på.   
+Jag heter Nina Mattsson och bor i Uppsala. Hösten 2022 började jag studera webbutveckling på Mittuniversitetet. Här på min profil kan man hitta projekt som jag har jobbat på.   
 
 ## Avslutade kurser på Webbutvecklingsprogrammet
 

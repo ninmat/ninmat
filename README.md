@@ -1,13 +1,17 @@
-# Om mig 
+# Hej!
 
-## Utbildning
+Jag heter Nina Mattsson och bor i Uppsala. Hösten 2022 började jag studera Webbutveckling på Mittuniversitetet. Här på min profil kan man hitta projekt som jag har jobbat på.   
 
-* 4 terminer Socionomprogrammet
-* 1 termin Webbutvecklingsprogrammet
+## Avslutade kurser på Webbutvecklingsprogrammet
 
-## Personlig info
+* Webbutveckling I
+* Introduktion till programmering i JavaScript
+* Grafisk teknik för webb
+* Webbanvändbarhet
 
-Jag bor i Uppsala.
+## Kontaktinformation
+
+E-mail: [nina.k.mattsson@gmail.com](mailto:nina.k.mattsson@gmail.com)
 
 
 
